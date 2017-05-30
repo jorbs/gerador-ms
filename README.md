@@ -1,5 +1,6 @@
 # Gerador de apostas da Mega Sena
 
+```
 Usage of mega:
   -max int
     	defines maximum value (default 60)
@@ -9,4 +10,5 @@ Usage of mega:
     	number of bets (default 5)
   -seed int
     	defines a seed for numbers generation (default 1)
-  -v	prints the version
+  -v	prints the version
+```
